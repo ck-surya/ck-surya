@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chhotu kumar</h1>
-<h3 align="center">working as automation</h3>
+<h3 align="center">working as developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ck-surya&label=Profile%20views&color=0e75b6&style=flat" alt="ck-surya" /> </p>
 
