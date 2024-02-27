@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ck-surya" alt="ck-surya" /></a> </p>
 
-- 🔭 I’m currently working on **uploading the our curriculum on slack**
+- 🔭 I’m currently working on **uploading the our curriculum on freecodeCamp**
 
 - 🌱 I’m currently learning **React,Nodejs,DSA,MongoDB**
 
