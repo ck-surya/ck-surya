@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ck-surya" alt="ck-surya" /></a> </p>
 
-- 🔭 I’m currently working on **uploading the our curriculum on freecodeCamp**
+- 🔭 I’m currently working on **Frappe Traininer at NavGurukul**
 
-- 🌱 I’m currently learning **React,Nodejs,DSA,MongoDB**
+- 🌱 I’m currently learning **Frappe-App-Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ck-surya](https://github.com/ck-surya)
 
-- 💬 Ask me about **Python,js,HTML/CSS,C/C++**
+- 💬 Ask me about **Python,js,HTML/CSS,C/C++,React,Nodejs,DSA,MongoDB**
 
 - 📫 How to reach me **chhotu@navgurukul.org**
 
