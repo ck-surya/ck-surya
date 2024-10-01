@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python,js,HTML/CSS,C/C++,React,Nodejs,DSA,MongoDB**
 
-- 📫 How to reach me **chhotu@navgurukul.org**
+- 📫 How to reach me **chhotu22@navgurukul.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
