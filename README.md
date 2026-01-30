@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ck-surya" alt="ck-surya" /></a> </p>
 
-- 🔭 I’m currently working on **Frappe Traininer at NavGurukul**
+- 🔭 I’m currently working as **a Software Developer**
 
-- 🌱 I’m currently learning **Frappe-App-Development**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ck-surya](https://github.com/ck-surya)
 
